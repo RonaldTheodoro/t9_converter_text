@@ -1,15 +1,17 @@
-# Texto para numero
+# T9 converter text
 
-Um simples script para converter texto para números como se estivesse digitando em um celular nokia antigo.
+A simple script to convert text to numbers as if typing on an old Nokia cell phone.
 
 ![nokia](nokia.jpeg)
 
 # Explicação
 
-Celulares antigos usavam teclados com o padrão T9 (Text on 9 keys) em que cada tecla representa um conjunto de caracteres, exemplo os caracteres `a`, `b` e `c` estão mapeados na tecla 2, os caracteres `d`, `e` e `f` na tecla 3 assim sucessivamente até o fim do alfabeto.
-Para se escrever a palavra faca e necessário apertar a tecla 3 três vezes, tecla 2 uma vez, tecla 2 três vezes e por fim a tecla 2 uma vez. Trabalhoso né?. Isso acaba gerando alguns conjuntos numéricos como os dos exemplos a seguir
+Old cell phones used keypads with the T9 standard (Text on 9 keys), where each key represents a set of characters. For example, the characters `a`, `b`, and `c` are mapped to key 2, the characters `d`, `e`, and `f` to key 3, and so on until the end of the alphabet.
 
-| Palavra | Numero          |
+To write the word `faca` (knife), it is necessary to press key 3 three times, key 2 once, key 2 three times, and finally key 2 once. Tedious, right? This ends up generating some numeric sequences like the following examples.
+
+
+| Word    | Number          |
 |---------|-----------------|
 | tijolao | 844456665558666 |
 | carro   | 2222777777666   |
